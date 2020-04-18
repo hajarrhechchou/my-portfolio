@@ -14,18 +14,18 @@
     <div class="container">
         <div class="row heading">
             <div class="col-md-6">
-             <h1>About <span>me</span></h1>
-             <p>
-                 I'm Hajar Rhechchou, business analyst from Morocco Rabat,
-            </p>
-             <p class="resume">
-                With over 2 years of experience specializing in Business analysis,
-                I started my profesional experience as Oracl EBS developer,
-                my main missions ranges from development and realization of specific reports
-                to corrective interventions, I'm today specialized in business analysis,
-                I collect users’ requirements, write functional specifications,
-                create business models, performe tests and verify user requirements
-             </p>
+                <h1>About <span id="me">me</span></h1>
+                <p>
+                    I'm Hajar Rhechchou, business analyst from Morocco Rabat,
+                </p>
+                <p class="resume">
+                    With over 2 years of experience specializing in Business analysis,
+                    I started my profesional experience as Oracl EBS developer,
+                    my main missions ranges from development and realization of specific reports
+                    to corrective interventions, I'm today specialized in business analysis,
+                    I collect users’ requirements, write functional specifications,
+                    create business models, performe tests and verify user requirements
+                </p>
             </div>
         </div>
         <div class="row content">
@@ -85,5 +85,10 @@
             </div>
         </div>
       </div>
+      <script>
+            var colors = ['#3dc1cb', '#ffc73d', '#ff604e', '#b2d8fe'];
+            var randomColor = colors[Math.floor(Math.random() * colors.length)];
+            document.getElementById('me').style.color = randomColor;
+  </script>
 </body>
 </html>
