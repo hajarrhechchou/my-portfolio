@@ -42,6 +42,7 @@ h1 span {
 .resume{
     font-family:'Nexa', Tahoma, serif;
     margin-top: -16px;
+    text-align: justify;
 }
 .exp-heading{
     margin-bottom: 40px;
