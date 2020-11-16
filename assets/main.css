@@ -30,8 +30,8 @@ body {
 }
 /* gif image developer */
 .developer-icon {
-   /* margin-top: -300px;*/
-    margin-top: -480px;
+
+    margin-top: -480px; /*-300px*/
     margin-left: 100px;
     width: 100%;
     
