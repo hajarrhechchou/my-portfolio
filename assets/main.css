@@ -52,7 +52,7 @@ h1 span {
 }
 .exp-bloc{
     font-family:'Nexa', Tahoma, serif;
-    margin-top: 20px;
+    margin-top: 10px; /*20px*/
 }
 .exp-date{
     font-family:'Nexa', sans-serif;
