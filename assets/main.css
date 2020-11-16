@@ -48,11 +48,11 @@ h1 span {
     
 }
 .exp-heading{
-    margin-bottom: 25px;
+    margin-bottom: 0px; /*25*/
 }
 .exp-bloc{
     font-family:'Nexa', Tahoma, serif;
-    margin-top: 10px; /*20px*/
+    margin-top: 20px;
 }
 .exp-date{
     font-family:'Nexa', sans-serif;
