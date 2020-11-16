@@ -70,6 +70,9 @@ h1 span {
 .row{
 margin-bottom: 40px; /**/
 }
+.gen-exp-bloc{
+    max-width: 93%;
+}
 .skills-container{
     font-family:'Nexa', Tahoma, serif;
     margin-top: 40px;
