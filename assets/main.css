@@ -66,6 +66,9 @@ h1 span {
 .exp-content{
     font-size: .9em;
 }
+.row{
+margin-bottom: 20px;
+}
 .skills-container{
     font-family:'Nexa', Tahoma, serif;
     margin-top: 40px;
